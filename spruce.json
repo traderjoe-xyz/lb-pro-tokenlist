@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
   "keywords": [],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
@@ -41,7 +41,7 @@
         "decimals": 18,
         "name": "GOLD Commodity",
         "symbol": "GOLD",
-        "tags": ["Top, Commodity"],
+        "tags": ["Top", "Commodity"],
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4A0b3e58D56aeBFB4988efd28D2D28253526C512/logo.png"
       },
       {
@@ -50,7 +50,7 @@
         "decimals": 18,
         "name": "USD FX",
         "symbol": "USD",
-        "tags": ["Top, FX"],
+        "tags": ["Top", "FX"],
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4380DEeD4f4ba889D777F89AC0D0EcC7D351d36F/logo.png"
       },
       {
@@ -59,9 +59,9 @@
         "decimals": 18,
         "name": "EUR FX",
         "symbol": "EUR",
-        "tags": ["Top, FX"],
+        "tags": ["Top", "FX"],
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x202a515f5B8FC21633Dd562cE7D8dCe8945393C6/logo.png"
       }
   ],
-  "timestamp": "2021-07-04T00:00:00+00:00"
+  "timestamp": "2021-07-20T00:00:00+00:00"
 }
